@@ -1,0 +1,42 @@
+.table-row {
+    background-color: #f7f6f8;
+    border-top : 5px solid #ffffff ;
+    border-bottom : 7px solid #ffffff;
+}
+
+
+ .btn-edit {
+    color : #2a2471;
+ }
+
+ .btn-delete {
+    margin : 0 0.7rem;
+    color: #ff485a;
+ }
+
+.btn-eye {
+    color : #2a2471;
+}
+
+
+.table-container-div {
+    -webkit-box-shadow: 0 2px 6px -6px black;
+       -moz-box-shadow: 0 2px 6px -6px black;
+            box-shadow: 0 2px 6px -6px black;
+
+    width : 100%;
+    margin-bottom : 2;
+    padding-bottom : 3rem;
+    padding-right : 1rem;
+    padding-left : 1rem;
+
+}
+
+/* style={{ width: '100%', marginBottom: 2 }} */
+
+
+.table-heading {
+    
+    color : #242e4c;
+    font-weight: 650;
+}
